@@ -1,2 +1,3 @@
-# WHATSAGENT
-AI-Powered WhatsApp Saas for Businesses
+# AGRIGUARD AI
+AI-Powered Agriculture AI Agent for crop monitoring and recommendation 
+
