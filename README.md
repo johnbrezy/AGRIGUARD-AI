@@ -1,2 +1,2 @@
-# WHATSAGENT
-AI-Powered WhatsApp Saas for Businesses
+# AGRIGUARD AI AGENT
+AI-Powered Agriculture AI Agent for disease recognition
